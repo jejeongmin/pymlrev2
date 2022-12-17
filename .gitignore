@@ -1,2 +1,4 @@
 */.ipynb_checkpoints/
 3장/titanic_train.csv
+/.vs
+/.gitignore
