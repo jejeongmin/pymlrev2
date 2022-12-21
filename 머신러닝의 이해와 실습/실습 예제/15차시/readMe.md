@@ -1,0 +1,1 @@
+[예제코드 데이터 파일 다운로드 링크](https://www.kaggle.com/datasets/uttam94/imdb-mastercsv)
